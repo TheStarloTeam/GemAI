@@ -1,4 +1,4 @@
-# Space AI
+# GemAI 💎
 
 ![GitHub License](https://img.shields.io/github/license/TheStarloTeam/spaceai_models?style=for-the-badge&logo=gnu&label=LICENSE)
 ![Static Badge](https://img.shields.io/badge/3.12%2F3.11-orange?style=for-the-badge&logo=python&label=PYTHON&labelColor=black)
