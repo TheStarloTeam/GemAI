@@ -1,5 +1,7 @@
 # Space AI
 
+![GitHub License](https://img.shields.io/github/license/TheStarloTeam/spaceai_models?style=for-the-badge&logo=gnu&label=LICENSE)
+
 SpaceAI is artificial intelligence project design to simplify the artwork of AI models.
 
 ## Some features in the future:
